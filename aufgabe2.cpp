@@ -1,15 +1,13 @@
+/* 
+* Progra I, WiSe 2026 
+*Uebung07, Aufgabe 2
+*Jannik Schwarzbach 985428 
+*/ 
+
 #include <iostream>
 
 using std::cout;
 using std::cin;
-/*
-Geben Sie eine ganze Zahl min ein: -3
-Geben Sie eine ganze Zahl max (>= -3) ein: 15
-Geben Sie eine Zahl zwischen -3 und 15 ein: 31
-Ungueltige Eingabe: 31. Die Zahl muss zwischen -3 und 15
-liegen!
-Geben Sie eine Zahl zwischen -3 und 15 ein: 5
-*/
 
 int main(){
     int eingabeZahl;

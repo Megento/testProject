@@ -1,3 +1,9 @@
+/* 
+* Progra I, WiSe 2026 
+*Uebung7, Aufgabe 1 
+*Jannik Schwarzbach 985428 
+*/ 
+
 #include <iostream>
 
 using std::cout;
@@ -28,10 +34,7 @@ bool berechnungPrimzahl(int eingabeZahl){
         i++;        
     }
     return primzahl;
-
 }
-
-
 
 int main() {
     int zahl;
